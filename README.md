@@ -1,13 +1,83 @@
-# React + Vite
+# Culture Connect India 🇮🇳
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
 
-Currently, two official plugins are available:
+Culture Connect India is a simple project made to explore and understand the diversity of Indian culture. The idea behind this project is to bring together information about traditions, festivals, food, and heritage from different parts of India in one place.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is built as part of learning full stack development and focuses on creating a clean and user-friendly experience.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Finance-Dashboard
+## Why I Built This
+
+India has a very rich culture, but most of the information is scattered. I wanted to create something that helps people easily explore and learn about it.
+
+At the same time, this project helped me improve my skills in frontend and backend development.
+
+---
+
+## Features
+
+* View information about Indian culture
+* Learn about festivals and traditions
+* Explore different cultural elements in a simple UI
+
+---
+
+## Tech Stack
+
+* Frontend: TypeScript
+* Backend: Node.js, Express
+* Database: MongoDB
+
+---
+
+## Project Structure
+
+```
+Culture-Connect-India
+│
+├── FrontEnd
+├── Backend
+```
+
+---
+
+## How to Run the Project
+
+### Frontend
+
+```
+cd FrontEnd
+npm install
+npm run dev
+```
+
+### Backend
+
+```
+cd Backend
+npm install
+node server.js
+```
+
+---
+
+## Future Improvements
+
+* Add more cultural data
+* Improve UI/UX
+* Add user login system
+* Connect with APIs for real data
+
+---
+
+## Author
+
+Abhishek Negi
+
+---
+
+## Note
+
+This is a learning project and still under development.
